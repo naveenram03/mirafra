@@ -1,3 +1,5 @@
 print("Hello naveen")
 print("Eat Momos")
 print("Eat Briyani")
+s1=input("Enter bootmode:")
+print(s1)
